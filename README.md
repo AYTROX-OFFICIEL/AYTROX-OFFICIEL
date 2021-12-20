@@ -8,3 +8,4 @@ Discord: https://dsc.gg/AYTROX<br>
 
 siteweb: https://aytrox.wixsite.com/website<br>
 
+aytrox.com: https://aytrox.com?=github.read-me-profile
